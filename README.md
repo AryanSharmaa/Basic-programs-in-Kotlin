@@ -1,4 +1,4 @@
-# kotlinbacis
+# Kotlinbasics
 
 These are some basics reference programs for kotlin that can be used by beginners.
 
